@@ -50,4 +50,4 @@ To run tests, use Postman or a similar API testing tool and run the various GET,
 
 Questions
 
-If you have any questions about the repo, open an issue or contact me directly.
+If you have any questions about the repo, open an issue or contact me directly or email me at shahnazafreen2014@gmail.com
